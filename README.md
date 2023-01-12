@@ -14,7 +14,10 @@ Com o python instalado:
 ### `python app.py`
 
 ## Com o Node insalado:
+execute:
+### npx create-react-app pastaprojetofrontend
 
+E na pasta pastaprojetofrontend
 ### `npm install react-scripts --save`
 ### `npm install react-router-dom --save`
 
@@ -29,7 +32,7 @@ Com o python instalado:
 ### `npm install heroicons-react`
 ### `npm i -S pure-react-carousel`
 
-##
+#Substitua as pastas build/ src/ e dist/ de frontend na pasta pastaprojetofrontend
 
 //============================= || Se necessário ||==================================//
 ### `npm install bootstrap`
