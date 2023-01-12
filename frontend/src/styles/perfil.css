@@ -1,0 +1,13 @@
+.botaoconfig{
+    flex-direction: row;
+}
+
+.trashicon{
+    margin-left: 10px;
+}
+
+.shopicon{
+    padding-right: 20px;
+    margin-right: 5px;
+    margin-left: 0x;
+}
