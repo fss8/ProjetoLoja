@@ -5,9 +5,9 @@ Projeto de Login, API, Compra e Cadastro de produtos
 ## Execute os seguintes comandos para iniciar
 
 Com o python instalado:
-###pip `install -U Flask`
-###pip `install -U flask-cors`
-###pip `install --upgrade google-api-python-client`
+### pip `install -U Flask`
+### pip `install -U flask-cors`
+### pip `install --upgrade google-api-python-client`
 ### `pip install google-auth-oauthlib`
 
 ##Para executar o backend faça:
