@@ -37,7 +37,7 @@ Com o python instalado:
 ### `npm install axios --save`
 ### `yarn add axios`
 
-In the project directory, you can run:
+# In the project directory, you can run:
 
 ### `npm start`
 
