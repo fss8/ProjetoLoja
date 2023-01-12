@@ -15,7 +15,7 @@ Com o python instalado:
 
 ## Com o Node insalado:
 execute:
-### npx create-react-app pastaprojetofrontend
+### `npx create-react-app pastaprojetofrontend`
 
 E na pasta pastaprojetofrontend
 ### `npm install react-scripts --save`
