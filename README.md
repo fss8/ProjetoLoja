@@ -11,7 +11,7 @@ Com o python instalado:
 ### `pip install google-auth-oauthlib`
 
 ## Para executar o backend faça:
-### `pip python app.py`
+### `python app.py`
 
 ## Com o Node insalado:
 
