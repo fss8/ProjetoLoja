@@ -10,8 +10,8 @@ Com o python instalado:
 ### pip `install --upgrade google-api-python-client`
 ### `pip install google-auth-oauthlib`
 
-##Para executar o backend faça:
-###pip `python app.py`
+## Para executar o backend faça:
+### pip `python app.py`
 
 Com o Node insalado:
 
