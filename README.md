@@ -15,11 +15,11 @@ Com o python instalado:
 
 ## Com o Node insalado:
 execute no frontend:
+### `npm install react-scripts --save`
+### `npm install react-router-dom --save`
 ### `npm start`
 
 E na pasta frontend também:
-### `npm install react-scripts --save`
-### `npm install react-router-dom --save`
 
 ### `npm i --save @fortawesome/free-brands-svg-icons` 
 ### `npm i --save @fortawesome/fontawesome-svg-core`
