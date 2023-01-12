@@ -5,18 +5,18 @@ Projeto de Login, API, Compra e Cadastro de produtos
 ## Execute os seguintes comandos para iniciar
 
 Com o python instalado:
-### pip `install -U Flask`
-### pip `install -U flask-cors`
-### pip `install --upgrade google-api-python-client`
+### `pip install -U Flask`
+### `pip install -U flask-cors`
+### `pip install --upgrade google-api-python-client`
 ### `pip install google-auth-oauthlib`
 
 ## Para executar o backend faça:
-### pip `python app.py`
+### `pip python app.py`
 
 ## Com o Node insalado:
 
 ### `npm install react-scripts --save`
-### npm `install react-router-dom --save`
+### `npm install react-router-dom --save`
 
 ### `npm i --save @fortawesome/free-brands-svg-icons` 
 ### `npm i --save @fortawesome/fontawesome-svg-core`
