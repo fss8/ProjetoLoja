@@ -13,7 +13,7 @@ Com o python instalado:
 ## Para executar o backend faça:
 ### pip `python app.py`
 
-Com o Node insalado:
+## Com o Node insalado:
 
 ### `npm install react-scripts --save`
 ### npm `install react-router-dom --save`
@@ -28,6 +28,8 @@ Com o Node insalado:
 ### `npm i @heroicons/react@v1`
 ### `npm install heroicons-react`
 ### `npm i -S pure-react-carousel`
+
+##
 
 //============================= || Se necessário ||==================================//
 ### `npm install bootstrap`
