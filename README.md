@@ -20,7 +20,7 @@ execute no frontend:
 ### `npx tailwindcss init`
 ### `npx tailwindcss -i ./src/input.css -o ./src/dist/output.css`
 
-Substituir no arquivo tailwind.config.js:
+Substituir no arquivo tailwind.config.js da pasta frontend (/frontend/tailwind.config.js):
 
 ```
 /** @type {import('tailwindcss').Config} */
