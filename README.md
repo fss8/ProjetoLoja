@@ -34,7 +34,7 @@ E na pasta frontend também:
 ### `npm install bootstrap`
 ### `npm install bootstrap jquery --save`
 
-//============================= || Se necessário ||==================================//
+//============================ || Se necessário ||=============================//
 ### `npm install axios --save`
 ### `yarn add axios`
 
