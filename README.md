@@ -17,7 +17,7 @@ Com o python instalado:
 execute no frontend:
 ### `npm install react-scripts --save`
 ### `npm install react-router-dom --save`
-### `npm start`
+### `npm audit fix --force`
 
 E na pasta frontend também:
 
