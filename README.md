@@ -18,7 +18,7 @@ execute no frontend:
 ### `npm install dependencies`
 
 ### `npx tailwindcss init`
-### `npx tailwindcss -i ./src/input.css -o ./src/output.css`
+### `npx tailwindcss -i ./src/input.css -o ./src/dist/output.css`
 
 Substituir no arquivo tailwind.config.js:
 
