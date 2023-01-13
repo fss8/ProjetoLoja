@@ -15,28 +15,32 @@ Com o python instalado:
 
 ## Com o Node insalado:
 execute no frontend:
-### `npm install react-scripts --save`
-### `npm install react-router-dom --save`
-### `npm audit fix --force`
+### `npm install dependencies`
 
-E na pasta frontend também:
+### npx tailwindcss init
+npx tailwindcss -i ./src/input.css -o ./src/output.css
 
-### `npm i --save @fortawesome/free-brands-svg-icons` 
-### `npm i --save @fortawesome/fontawesome-svg-core`
-### `npm i --save @fortawesome/react-fontawesome`
+Substituir no arquivo tailwind.config.js:
 
-### `npm install -D tailwindcss`
-### `npm install @headlessui/react`
-### `npm i @heroicons/react`
-### `npm i @heroicons/react@v1`
-### `npm install heroicons-react`
-### `npm i -S pure-react-carousel`
-### `npm install bootstrap`
-### `npm install bootstrap jquery --save`
+```
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    './pages/**/*.{html,js}',
+    './components/**/*.{html,js}',
+    './styles/**/*.{html,js}',
+    "./src/**/*.{html,js,jsx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [
+    require('@tailwindcss/forms'),
+],
+}
+```
 
-//============================ || Se necessário ||=============================//
-### `npm install axios --save`
-### `yarn add axios`
+### `npm install @tailwindcss/forms`
 
 # In the project directory, you can run:
 
