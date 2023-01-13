@@ -31,10 +31,10 @@ E na pasta frontend também:
 ### `npm i @heroicons/react@v1`
 ### `npm install heroicons-react`
 ### `npm i -S pure-react-carousel`
-
-//============================= || Se necessário ||==================================//
 ### `npm install bootstrap`
 ### `npm install bootstrap jquery --save`
+
+//============================= || Se necessário ||==================================//
 ### `npm install axios --save`
 ### `yarn add axios`
 
